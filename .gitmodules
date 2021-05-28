@@ -1,0 +1,3 @@
+[submodule "engine/credentials"]
+	path = engine/credentials
+	url = https://github.com/pcnoic/credentials
